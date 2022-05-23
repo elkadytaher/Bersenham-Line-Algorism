@@ -1,0 +1,39 @@
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.exe
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.deps.json
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.json
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.dev.json
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.dll
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.pdb
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csprojAssemblyReference.cache
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfoInputs.cache
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfo.cs
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csproj.CoreCompileInputs.cache
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.dll
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.pdb
+C:\Users\Nadir\source\repos\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.genruntimeconfig.cache
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.exe
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.deps.json
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.json
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.dev.json
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.dll
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.pdb
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csprojAssemblyReference.cache
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfoInputs.cache
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfo.cs
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csproj.CoreCompileInputs.cache
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.dll
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.pdb
+F:\level3\Term2\graphics\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.genruntimeconfig.cache
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.exe
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.deps.json
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.json
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.runtimeconfig.dev.json
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.dll
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\bin\Debug\netcoreapp3.1\BersenhamLine.pdb
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csprojAssemblyReference.cache
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfoInputs.cache
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.AssemblyInfo.cs
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.csproj.CoreCompileInputs.cache
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.dll
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.pdb
+C:\Users\Saleh Mohamed\Downloads\Package\BersenhamLine\BersenhamLine\obj\Debug\netcoreapp3.1\BersenhamLine.genruntimeconfig.cache
